@@ -1,1 +1,1 @@
-# live-linux-02-openfire
+# Live linux 03 - Instalando o Squid
